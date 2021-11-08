@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Coverage
+coverage/
+.nyc_output/

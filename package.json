@@ -1,0 +1,21 @@
+{
+  "name": "markdownlint-rule-list-duplicates",
+  "version": "0.0.1",
+  "description": "Prevents you from having duplicates in lists in markdown.",
+  "main": "index.js",
+  "keywords": [
+    "markdownlint-rule"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --collectCoverage"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "markdownlint": "^0.24.0"
+  },
+  "dependencies": {
+    "string-strip-html": "^8.3.0"
+  }
+}

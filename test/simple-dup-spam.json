@@ -1,0 +1,26 @@
+[
+  {
+    "errorDetail": "Found duplicate in a list at line 2",
+    "lineNumber": 2
+  },
+  {
+    "errorDetail": "Found duplicate in a list at line 3",
+    "lineNumber": 3
+  },
+  {
+    "errorDetail": "Found duplicate in a list at line 4",
+    "lineNumber": 4
+  },
+  {
+    "errorDetail": "Found duplicate in a list at line 5",
+    "lineNumber": 5
+  },
+  {
+    "errorDetail": "Found duplicate in a list at line 6",
+    "lineNumber": 6
+  },
+  {
+    "errorDetail": "Found duplicate in a list at line 7",
+    "lineNumber": 7
+  }
+]
