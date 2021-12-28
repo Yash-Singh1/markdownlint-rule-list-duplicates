@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "jest": "^27.3.1",
-    "markdownlint": "^0.24.0"
+    "markdownlint": "^0.25.0"
   },
   "dependencies": {
     "string-strip-html": "^8.3.0"
